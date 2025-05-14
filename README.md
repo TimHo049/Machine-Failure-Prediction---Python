@@ -1,3 +1,6 @@
+[![Download Excel](https://img.shields.io/badge/Download-Excel-green)](https://drive.google.com/file/d/1wjcyajjS6NWxpQq67ld1QoX8d1SKP_oq/view?usp=sharing)
+
+
 # Machine-Failure-Prediction---Python
 Predictive Maintenance ML: An analysis of machine failure prediction using multiple classifiers (Logistic Regression, Random Forest, SVM) with resampling techniques to address class imbalance. Identifies key features affecting equipment failure and compares model performance through ROC curves and F1 scores.
 
