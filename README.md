@@ -1,7 +1,7 @@
 # Machine-Failure-Prediction---Python
 Predictive Maintenance ML: An analysis of machine failure prediction using multiple classifiers (Logistic Regression, Random Forest, SVM) with resampling techniques to address class imbalance. Identifies key features affecting equipment failure and compares model performance through ROC curves and F1 scores.
 
-Executive Summary: Predictive Maintenance Model for Manufacturing Equipment
+# Executive Summary: Predictive Maintenance Model for Manufacturing Equipment
 Business Context
 Manufacturing equipment failures significantly impact operational efficiency through costly downtime and unplanned maintenance. Our predictive modeling framework addresses this challenge by identifying potential failures before they occur, enabling proactive maintenance scheduling that reduces downtime costs and extends equipment lifespan.
 Project Overview
